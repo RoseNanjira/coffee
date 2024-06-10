@@ -1,0 +1,13 @@
+.bg1{
+    background-color: rgba(113, 247, 229, 0.842);
+    opacity: 75%;
+}
+
+.text1{
+    color: blue;
+}
+
+.text1:hover{
+    color: rgb(118, 129, 165);
+}
+
